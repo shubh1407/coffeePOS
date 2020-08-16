@@ -1,1 +1,2 @@
 Main-Class: com.coffeePos.MainUILayout
+Class-Path:lib/h2-1.4.199-sources.jar;lib/h2-1.4.199.jar
