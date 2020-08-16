@@ -1,2 +1,2 @@
-Class-Path:lib/
+Class-Path: lib/
 Main-Class: com.coffeePos.MainUILayout
